@@ -49,7 +49,7 @@ export default function Education() {
           <span className="year">2025</span>
           <div className="timeline-content">
             <h3>Internship</h3>
-            <p>Website Developement<p/>
+            <p>Website Developement</p>
             <p>Consultancy Center unit/FITCS department Parul University</p>
           </div>
           </div>  
@@ -68,12 +68,11 @@ export default function Education() {
           <span className="year">2025</span>
           <div className="timeline-content">
             <h3>Employment</h3>
-            <p>LanceSoft .Inc<p/>
+            <p>LanceSoft .Inc</p>p>
             <p>US Healthcare Recruitement (Talent Acquisition)</p>
           </div>
         </div>
       </div>
-        </div>
     </section>
   );
 }

@@ -4,7 +4,7 @@ import './all.css';
 export default function Education() {
   return (
     <section id="education" className="education-section">
-      <h2 className="section-title">Education</h2>
+      <h2 className="section-title">Education & Employments</h2>
       <div className="timeline-container">
         <div className="line" />
 
@@ -58,7 +58,8 @@ export default function Education() {
           <div className="timeline-dot"></div>
           <span className="year">2025</span>
           <div className="timeline-content">
-            <h3>Website Developement</h3>
+            <h3>Internship</h3>
+            <p>Website Developement</p>
             <p>Bhojonise Cafe (Food Delevery Web App)</p>
           </div>
           </div>
@@ -68,7 +69,7 @@ export default function Education() {
           <span className="year">2025</span>
           <div className="timeline-content">
             <h3>Employment</h3>
-            <p>LanceSoft .Inc</p>p>
+            <p>LanceSoft .Inc</p>
             <p>US Healthcare Recruitement (Talent Acquisition)</p>
           </div>
         </div>

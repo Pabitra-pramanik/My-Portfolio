@@ -43,14 +43,33 @@ export default function Education() {
           </div>
           
         </div>
-        {/* 2025 - Left */}
+        {/* 2025 - Right */}
         <div className="timeline-item right">
           <div className="timeline-dot"></div>
           <span className="year">2025</span>
           <div className="timeline-content">
             <h3>Internship</h3>
+            <p>Website Developement<p/>
             <p>Consultancy Center unit/FITCS department Parul University</p>
+          </div>
+          </div>  
+            {/* 2025 - Left */}
+        <div className="timeline-item left">
+          <div className="timeline-dot"></div>
+          <span className="year">2025</span>
+          <div className="timeline-content">
+            <p>Website Developement<p/>
             <p>Bhojonise Cafe (Food Delevery Web App)</p>
+          </div>
+          </div>
+              {/* 2025 - Right */}
+        <div className="timeline-item right">
+          <div className="timeline-dot"></div>
+          <span className="year">2025</span>
+          <div className="timeline-content">
+            <h3>Employment</h3>
+            <p>LanceSoft .Inc<p/>
+            <p>US Healthcare Recruitement (Talent Acquisition)</p>
           </div>
         </div>
       </div>

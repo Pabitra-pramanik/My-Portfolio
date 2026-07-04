@@ -58,7 +58,7 @@ export default function Education() {
           <div className="timeline-dot"></div>
           <span className="year">2025</span>
           <div className="timeline-content">
-            <p>Website Developement<p/>
+            <h3>Website Developement</h3>
             <p>Bhojonise Cafe (Food Delevery Web App)</p>
           </div>
           </div>
